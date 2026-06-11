@@ -239,12 +239,12 @@ Fungsi yang berada dalam interface harus digunakan semua
 
 Beri tanda sesuai pemahaman kamu saat ini.
 
-| Topik | Belum paham | Mulai paham | Cukup paham |
-| --- | --- | --- | --- |
-| Basic syntax | [ ] | [X] | [ ] |
-| Class and object | [ ] | [X] | [ ] |
-| Field/method/constructor | [ ] | [X] | [ ] |
-| Access modifier | [ ] | [X] | [ ] |
-| Getter/setter | [ ] | [X] | [ ] |
-| List/Map | [ ] | [X] | [ ] |
-| Interface/abstract class | [ ] | [X] | [ ] |
+| Topik                    | Belum paham | Mulai paham | Cukup paham |
+| ------------------------ | ----------- | ----------- | ----------- |
+| Basic syntax             | [ ]         | [X]         | [ ]         |
+| Class and object         | [ ]         | [X]         | [ ]         |
+| Field/method/constructor | [ ]         | [X]         | [ ]         |
+| Access modifier          | [ ]         | [X]         | [ ]         |
+| Getter/setter            | [ ]         | [X]         | [ ]         |
+| List/Map                 | [ ]         | [X]         | [ ]         |
+| Interface/abstract class | [ ]         | [X]         | [ ]         |
